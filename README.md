@@ -12,18 +12,16 @@
     installer](https://cran.rstudio.com/bin/windows/base/R-4.2.2-win.exe) is
     recommended.
 
-```{=html}
 <!-- -->
-```
+
 -   [Rstudio
     Desktop](https://www.rstudio.com/products/rstudio/download/#download):
     Although not strictly necessary, it is recommended to install the Rstudio
     IDE; for strict reproducibility, use build [2022.07.1+554 for Windows
     10/11](https://download1.rstudio.org/desktop/windows/RStudio-2022.07.2-576.exe).
 
-```{=html}
 <!-- -->
-```
+
 -   [Git client](https://git-scm.com/download): Install the Git client in order
     to be able to clone locally the project repository. On Windows, use [the
     64-bit Windows
@@ -69,19 +67,11 @@ The file structure of this repository is as follows:
 
     <repository-folder>
     |
-    |--- dat       (To store input datasets; must NEVER be checked-in to Github)
-    |
     |--- doc       (To store important documentation of the project)
     |    |
     |    |--- minutes (To store meeting minutes)
     |
-    |--- notebooks (Notebooks to explore data and test processes live here)
-    |
     |--- output    (Processing outputs; files must be individually "checked-in" if necessary)
-    |
-    |--- R         (R functions created for this project live here)
-    |
-    |--- src       (Source scripts that implement the main processes)
     |
     |--- www       (Project assets, e.g., images, bibliography files, etc.)
 
