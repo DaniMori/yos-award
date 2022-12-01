@@ -76,21 +76,11 @@ The file structure of this repository is as follows:
 ```
 <repository-folder>
 |
-|--- dat       (To store input datasets; must NEVER be checked-in to Github)
-|
 |--- doc       (To store important documentation of the project)
 |    |
 |    |--- minutes (To store meeting minutes)
 |
-|--- notebooks (Notebooks to explore data and test processes live here)
-|
 |--- output    (Processing outputs; files must be individually "checked-in" if necessary)
-|
-|--- R         (R functions created for this project live here)
-|
-|--- renv      (System library necesssary for `renv` to work. DON'T TOUCH)
-|
-|--- src       (Source scripts that implement the main processes)
 |
 |--- www       (Project assets, e.g., images, bibliography files, etc.)
 ```
