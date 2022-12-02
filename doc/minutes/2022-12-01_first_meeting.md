@@ -1,6 +1,10 @@
-# First meeting YOS Award
-
-30-11-2022
+---
+title:  "First meeting YOS Award"
+date:   "30-11-2022"
+editor_options:
+  markdown:
+    canonical: false
+---
 
 **Attendees:** <names and surnames of attendees>
 
