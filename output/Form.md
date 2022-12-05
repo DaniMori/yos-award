@@ -16,16 +16,28 @@ title: Yerun Open Science Award form
 -   [*Obstacles and solutions*]{.underline}*: What challenges, if any, were
     encountered? Were they/how were they solved?*
 
-    Our initiative consists of developing an open science framework that can be
-    used across the research projects in our lab and exported to other
-    departments, both in and outside our institution. It consists of three
-    steps: data data management, which will be done using OPAL, part of the
-    Obiba environment; data computing, which will follow the literate computing
-    framework using Markdown and R Studio; and version control, which will be
-    done using Git. EXPAND. Our key Open Science objective is to increase
-    reproducibility and to engage the research community in our projects. Our
-    main target group is all researchers worldwide and ultimately the entire
-    population.
+    Our initiative consists of implementing a full open science workflow that
+    can be used across research projects in our team and exported to other
+    groups, both in and outside our institution. The aim is not only to produce
+    reproducible research outputs, but to go beyond that and make the whole
+    scientific production process reproducible, including project proposals and
+    research designs, materials and methods, instruments and protocols, data
+    management processes, analyses, and dissemination outputs such as papers,
+    book chapters, conference presentations, posters, etc. We believe this
+    methodology can help document the whole research process, thus helping
+    resolve some issues related with scientific reproducibility: uncovering
+    researchers' biases or implicit conflicts of interest, improving
+    accountability, and allowing better audits. Once our methodology is refined,
+    we expect to be able to disseminate it to other groups, so our target
+    audience would ultimately be the scientific community as a whole.
+
+    It consists of three steps: data data management, which will be done using
+    OPAL, part of the Obiba environment; data computing, which will follow the
+    literate computing framework using Markdown and R Studio; and version
+    control, which will be done using Git. EXPAND. Our key Open Science
+    objective is to increase reproducibility and to engage the research
+    community in our projects. Our main target group is all researchers
+    worldwide and ultimately the entire population.
 
     As tools like Open Science Framework (OSF) rapidly grow, world-leading
     funding bodies, such as Welcome Trust in the United Kingdom and the National
