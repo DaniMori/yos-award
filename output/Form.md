@@ -49,8 +49,6 @@ title: Yerun Open Science Award form
     Git, etc. Outside the institution, the main challenge is that other partners
     see this as an investment they don't have time to make.
 
-<!--# blank field, max 400 words -->
-
 # Outputs: What has the initiative achieved so far?
 
 *Please provide information as to the following aspects (as applicable):*
