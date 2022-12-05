@@ -23,20 +23,26 @@ title: Yerun Open Science Award form
     scientific production process reproducible, including project proposals and
     research designs, materials and methods, instruments and protocols, data
     management processes, analyses, and dissemination outputs such as papers,
-    book chapters, conference presentations, posters, etc. We believe this
-    methodology can help document the whole research process, thus helping
-    resolve some issues related with scientific reproducibility: uncovering
-    researchers' biases or implicit conflicts of interest, improving
+    book chapters, conference presentations, posters, etc.
+
+    <!--# Next lines: To outcomes? -->
+
+    We believe this methodology can help document the whole research process,
+    thus helping resolve some issues related with scientific reproducibility:
+    uncovering researchers' biases or implicit conflicts of interest, improving
     accountability, and allowing better audits. Once our methodology is refined,
     we expect to be able to disseminate it to other groups, so our target
     audience would ultimately be the scientific community as a whole.
 
-    It consists of three steps: data data management, which will be done using
-    OPAL, part of the Obiba environment; data computing, which will follow the
-    literate computing framework using Markdown and R Studio; and version
-    control, which will be done using Git. EXPAND. Our key Open Science
-    objective is to increase reproducibility and to engage the research
-    community in our projects. Our main target group is all researchers
+    The initiative we propose consists of three components: open data
+    management, literate computing, and version control. Open data management is
+    implemented by mean of the Opal technology, part of the Obiba research
+    suite. The Opal server allows sorting issues of data sharing by providing a
+    controlled interface for open data access, without disclosing ; data
+    computing, which will follow the literate computing framework using Markdown
+    and R Studio; and version control, which will be done using Git. EXPAND. Our
+    key Open Science objective is to increase reproducibility and to engage the
+    research community in our projects. Our main target group is all researchers
     worldwide and ultimately the entire population.
 
     As tools like Open Science Framework (OSF) rapidly grow, world-leading
