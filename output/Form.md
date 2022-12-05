@@ -10,6 +10,12 @@ title: Yerun Open Science Award form
     its key Open Science objectives (and others, if applicable)? Who are the
     target groups? What are the main activities organised?*
 
+-   [*Context*]{.underline} *in which the initiative was implemented: What
+    prompted you to develop this initiative?*
+
+-   [*Obstacles and solutions*]{.underline}*: What challenges, if any, were
+    encountered? Were they/how were they solved?*
+
     Our initiative consists of developing an open science framework that can be
     used across the research projects in our lab and exported to other
     departments, both in and outside our institution. It consists of three
@@ -20,9 +26,6 @@ title: Yerun Open Science Award form
     reproducibility and to engage the research community in our projects. Our
     main target group is all researchers worldwide and ultimately the entire
     population.
-
--   [*Context*]{.underline} *in which the initiative was implemented: What
-    prompted you to develop this initiative?*
 
     As tools like Open Science Framework (OSF) rapidly grow, world-leading
     funding bodies, such as Welcome Trust in the United Kingdom and the National
@@ -39,9 +42,6 @@ title: Yerun Open Science Award form
 
     With SYNCHROS we used literate computing and version Control, with RESPOND
     we are using the three steps.
-
--   [*Obstacles and solutions*]{.underline}*: What challenges, if any, were
-    encountered? Were they/how were they solved?*
 
     We encountered obstacles both within and outside our lab. In our lab, the
     main challenge was overcoming the lack of specific training in OS. We are
