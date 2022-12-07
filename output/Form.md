@@ -58,21 +58,40 @@ title: Yerun Open Science Award form
 -   [*Benefits*]{.underline}*: What benefits were realised (to date) through
     this initiative, and for whom?*
 
-    SYNCRHOS insert. In RESPOND, we have already published open access
-    manuscripts aimed at informing mental and occupational health policies for
-    vulnerable popularions during the COVID-19 pandemic, especially HCWs. Soon,
-    we will report the results of our RCT, and make the code available.
+    Within the different projects related to the research group, we work daily
+    with researchers and professionals living abroad. This need for
+    international synchronization has given rise to a considerable need to use a
+    tool capable of tracking exchanges between researchers more comprehensively.
+    Having a history of changes and different proposals established is not only
+    useful within our group but also for the whole scientific community. Indeed,
+    reproducibility is nowadays one of the major points of research. Giving the
+    researcher a detailed path of what has been done in a study brings
+    transparency and fidelity. As a concrete example, in the "RESPONDproject",
+    we have already published open-access manuscripts to inform mental and
+    occupational health policies for vulnerable populations during the COVID-19
+    pandemic, especially HCWs. Soon, we will report the RCT results and make the
+    code available. This will allow researchers to have full access not only to
+    the results of the study but also to how the study developed.
 
 -   [*Lessons learnt*]{.underline}*: What knowledge have you gained (so far)
     through your work?*
 
-    In the context of the COVID-19 pandemics, preprints increased, journals had
-    open access policies, etc. In a rapidly changing world, with climate crisis,
-    wars, etc., research should (and will) move rapidly and collaboratively.
-    This requires training and collaboration, and it is the reason why we apply
-    for this grant.
+    In the context of the COVID-19 pandemic, preprints increased, journals had
+    open-access policies, etc. In a rapidly changing world, with the climate
+    crisis, wars, etc., research should (and will) move rapidly and
+    collaboratively. This requires training and collaboration, which is why we
+    apply for this grant. One of the main benefits of developing this practice
+    is having a complete history accessible to all. This increases the
+    transparency of a study and facilitates communication. Moreover, it is an
+    interesting tool for the researcher himself. Indeed, having this history
+    allowed us to keep in writing what was done, what worked but also what led
+    to an error. This written trace allowed us to save time and avoid
+    reproducing the same mistake while understanding why. Also, when we want to
+    remember the previous steps and what has already been done by our peers, it
+    is easy to navigate within it once familiar with the platform and find this
+    information.
 
-<!--# blank field, max 400 words -->
+<!--# blank field, 321 words -->
 
 # Reusability: What steps have been taken for others to reuse this initiative?
 
