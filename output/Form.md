@@ -16,56 +16,60 @@ title: Yerun Open Science Award form
 -   [*Obstacles and solutions*]{.underline}*: What challenges, if any, were
     encountered? Were they/how were they solved?*
 
-    Our initiative consists of implementing a full open science workflow that
-    can be used across research projects in our team and exported to other
-    groups, both in and outside our institution. The aim is not only to produce
-    reproducible research outputs, but to go beyond that and make the whole
-    scientific production process reproducible, including project proposals and
-    research designs, materials and methods, instruments and protocols, data
-    management processes, analyses, and dissemination outputs such as papers,
-    book chapters, conference presentations, posters, etc.
+The European Commission has started to adhere to open access guidelines. Our
+group is or has been involved in nearly ten international projects funded by the
+European Union. We have developed our methodology for reproducibility in two
+recent projects, with the aim of standardizing it, and disseminate it to other
+groups. Therefore, our target audience will ultimately be the whole scientific
+community.
 
-    <!--# Next lines: To outcomes? -->
+Our proposal consists of implementing a full open science workflow, reusable
+across research projects and exportable to other groups. The aim is not only to
+produce reproducible research outputs, but to go beyond that and make the whole
+scientific production process reproducible: We want to make the historical of
+the scientific process itself completely transparent and reproducible by
+documenting all the progress and decisions made along the way. We implement this
+using three technologies: open data management, literate computing, and version
+control. Open data management is implemented by means of the Opal technology (a
+Linux-based server), which enables data sharing with a controlled interface
+without disclosing sensitive, personal data. Literate computing is implemented
+with the Rstudio environment and associated components ("de facto" standards
+such as the Rmarkdown format and the Knitr engine), which allow editing all
+research outputs in text format, combining data analyses and natural language to
+produce e.g. manuscripts. Using text files exclusively allows us to use a
+version control system. For convenience, we have chosen to use Git, with the
+Github service to centralize our production.
 
-    We believe this methodology can help document the whole research process,
-    thus helping resolve some issues related with scientific reproducibility:
-    uncovering researchers' biases or implicit conflicts of interest, improving
-    accountability, and allowing better audits. Once our methodology is refined,
-    we expect to be able to disseminate it to other groups, so our target
-    audience would ultimately be the scientific community as a whole.
+Although these technologies have allowed us to manage projects in a completely
+reproducible way, we have also found some challenges; both Opal and Git require
+a high level of expertise. When necessary, we have asked for help from experts
+in other fields, or investigated our own solutions. We have also implemented
+training sessions about the literate computing ecosystem and version control
+management. When we have found limits to the automation achievable with the
+literate computing framework, we have exhaustively documented the manual steps
+needed to produce the final output. In one case, we subjectively assessed the
+level of automation around 99% (four minor steps had to be performed manually
+before the submission). Finally, we have found resistance towards the adoption
+of these technologies. In these cases we have adapted our workflows to the needs
+of the other researchers involved, but we also intend to do formative actions to
+help bridge that resistance gap.
 
-    The initiative we propose consists of three components: open data
-    management, literate computing, and version control. Open data management is
-    implemented by mean of the Opal technology, part of the Obiba research
-    suite. The Opal server allows sorting issues of data sharing by providing a
-    controlled interface for open data access, without disclosing ; data
-    computing, which will follow the literate computing framework using Markdown
-    and R Studio; and version control, which will be done using Git. EXPAND. Our
-    key Open Science objective is to increase reproducibility and to engage the
-    research community in our projects. Our main target group is all researchers
-    worldwide and ultimately the entire population.
+<!--# 394 words -->
 
-    As tools like Open Science Framework (OSF) rapidly grow, world-leading
-    funding bodies, such as Welcome Trust in the United Kingdom and the National
-    Institute of Health in the United States of America, include compulsory open
-    access guidelines for their research projects. More recently, the European
-    Commission started to adhere to this initiative, and calls such as the
-    Horizon 2020 programme for research and innovation include specific open
-    access policies. Our lab is a World Health Organisation collaborating centre
-    focused on mental health services research and training. We are based at the
-    Department of Psychiatry at the Universidad Autónoma de Madrid, which is or
-    has been involved in nearly ten projects funded by the European Union. In
-    this initiative, we used our expertise in two of these projects, namely
-    SYNCHROS and RESPOND, with the broad aim to expand it to other projects.
+<!--# Next lines: To "Outputs"? -->
 
-    With SYNCHROS we used literate computing and version Control, with RESPOND
-    we are using the three steps.
+We believe this methodology can help document the whole research process, thus
+helping resolve some issues related with scientific reproducibility: uncovering
+researchers' biases or implicit conflicts of interest, improving accountability,
+and allowing better audits.
 
-    We encountered obstacles both within and outside our lab. In our lab, the
-    main challenge was overcoming the lack of specific training in OS. We are
-    currently doing Tidyverse sessions, we bought a server, we are trying to use
-    Git, etc. Outside the institution, the main challenge is that other partners
-    see this as an investment they don't have time to make.
+<!--# Next lines: To "Ouputs"/"Reusability"? -->
+
+In one project we have already used the literate computing and version control
+technologies to manage the whole production of a research article (please see
+<https://github.com/CCOMS-UAM/mapping-initiatives>). We are currently
+implementing the data management system in Opal in an ongoing project, along
+with the other two technologies.
 
 # Outputs: What has the initiative achieved so far?
 
