@@ -109,7 +109,7 @@ title: Yerun Open Science Award form
     know-how of data access management with Opal (and the Obiba suite in
     general), literate computing, and version control with git/GitHub. All these
     technologies enable creating reliable reproducible workflows, but learning
-    to naviagte them is time- and effort-consuming; we need to draw our
+    to navigate them is time- and effort-consuming; we need to draw our
     knowledge from the field of software engineering and computer science, and
     then adapt it and translate it to the needs and particularities of
     scientific production.
@@ -128,4 +128,16 @@ title: Yerun Open Science Award form
     would be the first step towards taking a borader action that can be spread
     throughout the scientific community.
 
-<!--# 239 words -->
+    The mid specific knowledge could give team skills to solve unexpected
+    problems while the research is ongoing. Courses related to these skills are
+    such as those offered by Harvard University about [Introduction to Computer
+    Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+    and [Principles, Statistical and Computational Tools for Reproducible Data
+    Science](https://pll.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=2).
+    Finaly to exploit the obtained data, it would be helpful to take more
+    advanced courses such as [Machine
+    Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
+    and [BigData
+    Systems](https://pll.harvard.edu/course/big-data-systems?delta=1).
+
+<!--# 307 words -->
