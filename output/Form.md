@@ -103,41 +103,36 @@ title: Yerun Open Science Award form
     initiative, or would you like to initiate a new project with the financial
     resources from the award?*
 
-    Our aim is to embed all our scientific production within this workflow,
-    leveraging as much as possible on open science practices from beginning to
-    end. In order to this, we want to dig further into our understanding and
-    know-how of data access management with Opal (and the Obiba suite in
-    general), literate computing, and version control with git/GitHub. All these
-    technologies enable creating reliable reproducible workflows, but learning
-    to navigate them is time- and effort-consuming; we need to draw our
-    knowledge from the field of software engineering and computer science, and
-    then adapt it and translate it to the needs and particularities of
-    scientific production.
+Our aim is to embed all our scientific production within this workflow,
+leveraging as much as possible on open science practices from beginning to end.
+In order to this, we want to dig further into our understanding and know-how of
+data access management with Opal (and the Obiba suite in general), literate
+computing, and version control with git/GitHub. All these technologies enable
+creating reliable reproducible workflows, but learning to navigate them is time-
+and effort-consuming; we need to draw our knowledge from the field of software
+engineering and computer science, and then adapt it and translate it to the
+needs and particularities of scientific production.
 
-    At the present time, our self assessment is that we are in a maturing phase
-    of our skill-development process with these technologies. Before we are able
-    to expand our best practices outside our own group, we need to consolidate
-    our knowledge. Consequently, we believe that we need to take courses and
-    training activities.
+We are currently in what we could call a "maturing" phase of our
+skill-development process with these technologies. Before we are able to expand
+our best practices outside our own group, we need to consolidate our knowledge,
+for which we require further training. We would allocate the prize for training
+in the use of these technologies. We would like to develop an expertise that can
+then be translated into formative actions that can be exported to the rest of
+the research communities. Thus, we believe the prize may be a great opportunity
+to invest in this first stage of specific, mid- to high-level training. This
+would be the first step towards taking a broader action that can be spread
+throughout the scientific community.
 
-    Therefore, we would allocate the prize for training in the use of these
-    technologies. We would like to develop an expertise that can then be
-    translated into formative actions that can be exported to the rest of the
-    research communities. Thus, we believe the prize may be a great opportunity
-    to invest in this first stage of specific, mid- to high-level training. This
-    would be the first step towards taking a borader action that can be spread
-    throughout the scientific community.
-
-    The mid specific knowledge could give team skills to solve unexpected
-    problems while the research is ongoing. Courses related to these skills are
-    such as those offered by Harvard University about [Introduction to Computer
-    Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-    and [Principles, Statistical and Computational Tools for Reproducible Data
-    Science](https://pll.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=2).
-    Finaly to exploit the obtained data, it would be helpful to take more
-    advanced courses such as [Machine
-    Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
-    and [BigData
-    Systems](https://pll.harvard.edu/course/big-data-systems?delta=1).
+The mid specific knowledge could give team skills to solve unexpected problems
+while the research is ongoing. Courses related to these skills are such as those
+offered by Harvard University about [Introduction to Computer
+Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+and [Principles, Statistical and Computational Tools for Reproducible Data
+Science](https://pll.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=2).
+Finaly to exploit the obtained data, it would be helpful to take more advanced
+courses such as [Machine
+Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
+and [BigData Systems](https://pll.harvard.edu/course/big-data-systems?delta=1).
 
 <!--# 307 words -->
