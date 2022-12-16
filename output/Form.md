@@ -25,36 +25,35 @@ community.
 
 Our proposal consists of implementing a full open science workflow, reusable
 across research projects and exportable to other groups. The aim is not only to
-produce reproducible research outputs, but to go beyond that and make the whole
-scientific production process reproducible: We want to make the historical of
-the scientific process itself completely transparent and reproducible by
-documenting all the progress and decisions made along the way. We implement this
-using three technologies: open data management, literate computing, and version
-control. Open data management is implemented by means of the Opal technology (a
+produce reproducible research outputs, but to make the whole scientific
+production process reproducible: We want to make the historical of the
+scientific process itself completely transparent and reproducible by documenting
+all the progress and decisions made along the way. We implement this using three
+technologies: open data management, literate computing, and version control.
+Open data management is implemented by means of the Opal technology (a
 Linux-based server), which enables data sharing with a controlled interface
 without disclosing sensitive, personal data. Literate computing is implemented
 with the Rstudio environment and associated components ("de facto" standards
-such as the Rmarkdown format and the Knitr engine), which allow editing all
+such as the Rmarkdown format and the Knitr engine). It allows editing all
 research outputs in text format, combining data analyses and natural language to
-produce e.g. manuscripts. Using text files exclusively allows us to use a
-version control system. For convenience, we have chosen to use Git, with the
-Github service to centralize our production.
+produce e.g. manuscripts. Version control is implemented via Git (and Github
+service) by using text files exclusively.
 
-Although these technologies have allowed us to manage projects in a completely
-reproducible way, we have also found some challenges; both Opal and Git require
-a high level of expertise. When necessary, we have asked for help from experts
-in other fields, or investigated our own solutions. We have also implemented
-training sessions about the literate computing ecosystem and version control
-management. When we have found limits to the automation achievable with the
-literate computing framework, we have exhaustively documented the manual steps
-needed to produce the final output. In one case, we subjectively assessed the
-level of automation around 99% (four minor steps had to be performed manually
-before the submission). Finally, we have found resistance towards the adoption
-of these technologies. In these cases we have adapted our workflows to the needs
-of the other researchers involved, but we also intend to do formative actions to
-help bridge that resistance gap.
+Although these technologies made it possible to manage projects in a completely
+reproducible way, some challenges still remain. First, both Opal and Git require
+a high level of expertise. Consequently, we often consult with experts in other
+fields or investigate our own solutions, and we are currently implementing
+training sessions on literate computing ecosystem and version control
+management. Second, the literate computing framework does not ensure full
+automation, and requires both evaluating the level of automation and documenting
+the manual steps required for reproducing the output (if not automated) -in a
+previous work, we managed to achieve 99% of automation, with only four minor
+steps performed manually before submitting a manuscript to a scientific journal.
+Last, many researchers are reluctant to adopt these technologies. When this
+happens, we adapt our workflows to the needs of the other researchers involved,
+while putting formative actions in place to help bridge that resistance gap.
 
-<!--# 394 words -->
+<!--# 374 words -->
 
 <!--# Next lines: To "Outputs"? -->
 
