@@ -55,21 +55,6 @@ while putting formative actions in place to help bridge that resistance gap.
 
 <!--# 374 words -->
 
-<!--# Next lines: To "Outputs"? -->
-
-We believe this methodology can help document the whole research process, thus
-helping resolve some issues related with scientific reproducibility: uncovering
-researchers' biases or implicit conflicts of interest, improving accountability,
-and allowing better audits.
-
-<!--# Next lines: To "Ouputs"/"Reusability"? -->
-
-In one project we have already used the literate computing and version control
-technologies to manage the whole production of a research article (please see
-<https://github.com/CCOMS-UAM/mapping-initiatives>). We are currently
-implementing the data management system in Opal in an ongoing project, along
-with the other two technologies.
-
 # Outputs: What has the initiative achieved so far?
 
 *Please provide information as to the following aspects (as applicable):*
