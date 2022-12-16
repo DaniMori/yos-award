@@ -47,12 +47,12 @@ open science requirements in relation to our scientific production. These are
 some examples:
 
 -   We developed a template for R Studio projects that is used across different
-    repositories URL REQUIRED.
--   We use of version control provided by GitHub.
--   We use of remote servers, including one hosted by the Computation Centre at
-    the Universidad Autónoma de Madrid
+    repositories <https://github.com/DaniMori/rproj-template>.
+-   We use version control provided by GitHub.
+-   We use remote servers, including one hosted by the Scientific Computation 
+    Centre at the Universidad Autónoma de Madrid.
 -   We use the free, open-source software Opal to host our datasets.
--   We use the free, open-source software DataShield to perform federated
+-   We use the free, open-source software DataShield to perform federated.
     analyses of multiple datasets while keeping sensitive data securely stored
     at each institution.
 
@@ -70,7 +70,11 @@ Our knowledge and expertise may already help other research groups. We will
 provie support by sharing the server, training other departments, or taking the
 lead on initiatives to develop an enhanced open science framework for
 collaborative work. There are already materials that can be provided for this
-purpose (e.g., DataShield monthly drop-in sessions URL REQUIRED).
+purpose (e.g., DataShield monthly drop-in sessions 
+<https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/overview and
+https://www.youtube.com/@datashield5702/videos>).
+
+<!--# 280 words -->
 
 # Follow-up: How do you intend to use the award?
 
