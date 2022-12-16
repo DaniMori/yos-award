@@ -56,7 +56,7 @@ want to remember the previous steps and what has already been done by our peers,
 it is easy to navigate within it once familiar with the platform and find this
 information.
 
-327 words
+<!--# 327 words -->
 
 # Reusability: What steps have been taken for others to reuse this initiative?
 
