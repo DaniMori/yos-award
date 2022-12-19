@@ -1,5 +1,8 @@
 ---
 title: Yerun Open Science Award form
+editor_options:
+  markdown:
+    canonical: false
 ---
 
 # Description: What is the Open Science practice/initiative about?
@@ -47,9 +50,9 @@ open science requirements in relation to our scientific production. These are
 some examples:
 
 -   We developed a template for R Studio projects that is used across different
-    repositories <https://github.com/DaniMori/rproj-template>.
+    repositories (https://github.com/DaniMori/rproj-template).
 -   We use version control provided by GitHub.
--   We use remote servers, including one hosted by the Scientific Computation 
+-   We use remote servers, including one hosted by the Scientific Computation
     Centre at the Universidad Autónoma de Madrid.
 -   We use the free, open-source software Opal to host our datasets.
 -   We use the free, open-source software DataShield to perform federated.
@@ -59,18 +62,18 @@ some examples:
 In this way, each member of the group knows how to implement changes to
 manuscript versions and programming code, and where to look for track records of
 changes, so that everything could be accounted for. We get this experience from
-two projects, namely RESPOND (https://respond-project.eu/es/) and
-SYNCHROS (https://synchros.eu/), and we try to use it at all research stages
-(e.g., from meetings' minutes to manuscript writing). Our latest project is this
+two projects, namely RESPOND (https://respond-project.eu/es/) and SYNCHROS
+(https://synchros.eu/), and we try to use it at all research stages (e.g.,
+from meetings' minutes to manuscript writing). Our latest project is this
 application, which is currently being prepared on RStudio and Github and tries
-to be as compliant as possible with the Open Science framework (see
-here: https://github.com/CCOMS-UAM/yos-award).
+to be as compliant as possible with the Open Science framework (see here:
+https://github.com/CCOMS-UAM/yos-award).
 
 Our knowledge and expertise may already help other research groups. We will
 provie support by sharing the server, training other departments, or taking the
 lead on initiatives to develop an enhanced open science framework for
 collaborative work. There are already materials that can be provided for this
-purpose (e.g., DataShield monthly drop-in sessions: 
+purpose (e.g., DataShield monthly drop-in sessions:
 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/overview and
 https://www.youtube.com/@datashield5702/videos).
 
