@@ -156,20 +156,18 @@ our best practices outside our own group, we need to consolidate our knowledge,
 for which we require further training. We would allocate the prize for training
 in the use of these technologies. We would like to develop an expertise that can
 then be translated into formative actions that can be exported to the rest of
-the research communities. Thus, we believe the prize may be a great opportunity
-to invest in this first stage of specific, mid- to high-level training. This
-would be the first step towards taking a broader action that can be spread
-throughout the scientific community.
+lab members and research communities. Thus, we believe the prize may be a great
+opportunity to invest in this first stage of specific, mid- to high-level
+training. Courses related to using [git /
+Github](https://swcarpentry.github.io/git-novice/),
+[DataShield](https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub),
+[Opal administration](https://opaldoc.obiba.org/en/latest/cookbook/index.html),
+[Linux server
+administration](https://www.cbtnuggets.com/it-training/linux/server-administration)
+and a subscription to IT consulting to solve specific problems such as [Git
+Protect](https://gitprotect.com/it-consulting-and-development) and [Red
+Hat](https://www.redhat.com/es/services/consulting). This would be the first
+step towards taking a broader action that can be spread throughout the
+scientific community.
 
-The mid specific knowledge could give team skills to solve unexpected problems
-while the research is ongoing. Courses related to these skills are such as those
-offered by Harvard University about [Introduction to Computer
-Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
-and [Principles, Statistical and Computational Tools for Reproducible Data
-Science](https://pll.harvard.edu/course/principles-statistical-and-computational-tools-reproducible-data-science?delta=2).
-Finaly to exploit the obtained data, it would be helpful to take more advanced
-courses such as [Machine
-Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0)
-and [BigData Systems](https://pll.harvard.edu/course/big-data-systems?delta=1).
-
-<!--# 307 words -->
+<!--# 260 words -->
