@@ -46,15 +46,24 @@ In the context of the COVID-19 pandemic, preprints increased, journals had
 open-access policies, etc. In a rapidly changing world, with the climate crisis,
 wars, etc., research should (and will) move rapidly and collaboratively. This
 requires training and collaboration, which is why we apply for this grant. One
-of the main benefits of developing this practice is having a complete history
-accessible to all. This increases the transparency of a study and facilitates
-communication. Moreover, it is an interesting tool for the researcher himself.
-Indeed, having this history allowed us to keep in writing what was done, what
-worked but also what led to an error. This written trace allowed us to save time
-and avoid reproducing the same mistake while understanding why. Also, when we
-want to remember the previous steps and what has already been done by our peers,
-it is easy to navigate within it once familiar with the platform and find this
-information.
+powerful tool that makes national and international collaboration possible is
+the Obiba Software. We currently use this open-source software on the RESPOND
+project to conduct federated analyses of different epidemiological cohort
+studies (software DataShield and R) while data is securely stored in local
+servers (software Opal). In this project, we also anonymised our datasets to
+comply with the General Data Protection Regulation of the European Union.
+Because a common anonymisation process across datasets was not possible (due to
+the sensitive nature of the data), we used scripts in R, Stata, and SPSS, based
+on each partners' preference, to keep the anonymisation as reproducible as
+possible at all study sites. One of the main benefits of developing this
+practice is having a complete history accessible to all. This increases the
+transparency of a study and facilitates communication. Moreover, it is an
+interesting tool for the researcher himself. Indeed, having this history allowed
+us to keep in writing what was done, what worked but also what led to an error.
+This written trace allowed us to save time and avoid reproducing the same
+mistake while understanding why. Also, when we want to remember the previous
+steps and what has already been done by our peers, it is easy to navigate within
+it once familiar with the platform and find this information.
 
 <!--# blank field, 321 words -->
 
