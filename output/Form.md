@@ -5,6 +5,35 @@ editor_options:
     canonical: false
 ---
 
+# Team
+
+Roberto Mediavilla has a PhD in psychology and coordinates epidemiological and
+intervention studies to reduce the mental health burden of the COVID-19 pandemic
+among vulnerable groups. He submits this application on behalf of the World
+Health Organization Collaborating Centre for Mental Health Services Research and
+Training, a research group lead by José Luis Ayuso-Mateos and based at the
+Department of Psychiatry, Universidad Autónoma de Madrid (Spain). 
+Our main motivation is to keep working together on producing fully reproducible
+scientific outputs and processes. To achieve this aim, our group comprises the
+following collaborators from our research lab:
+María Cabello-Salmerón. Psychologist and PhD in psychiatry. She is an
+international expert in analysing the impact of mental disorders on work
+disability. She is also working on bridging digital skills gaps in people with
+severe mental disorders.
+Daniel Morillo-Cuadrado. PhD in Clinical Psychology, with a focus in
+quantitative methods; he also has a degree in telecom engineering, and some
+experience in the private sector working with frontend development, relational
+databases, and linux-based servers. 
+Cristina Rodríguez-Prada. MSc in quantitative methods in Psychology and mental
+health research and works as a research assistant doing database processing with
+programming software (e.g., R, Stata). 
+Lea Francia. PhD candidate. She explores how to improve the pharmacological care
+of people with depression based on an analysis of the adequacy of prescriptions
+and diagnostic tools. 
+Jesús Sierralaya. MSc on statistical methods applied to behavioural research. He
+uses this knowledge to build behavioural and cognitive models using R.
+
+
 # Description: What is the Open Science practice/initiative about?
 
 *Please provide information as to the following aspects (as applicable):*
@@ -56,8 +85,6 @@ Last, many researchers are reluctant to adopt these technologies. When this
 happens, we adapt our workflows to the needs of the other researchers involved,
 while putting formative actions in place to help bridge that resistance gap.
 
-<!--# 374 words -->
-
 # Outputs: What has the initiative achieved so far?
 
 *Please provide information as to the following aspects (as applicable):*
@@ -67,16 +94,17 @@ while putting formative actions in place to help bridge that resistance gap.
 -   [*Lessons learnt*]{.underline}*: What knowledge have you gained (so far)
     through your work?*
 
-As a research group and a World Health Organization's collaborating centre, we
+As an international research group and a World Health Organization's
+collaborating centre, we
 work daily with researchers and professionals living abroad. This requires tools
 that help tracking exchanges between labs in a comprehensive way, such as
 statistical code, manuscript drafts, or meeting minutes. By taking this
-approach, we aims not only to develop a stronger open science practice within
+approach, we aim at developing a stronger open science practice not only within
 our lab, but also across different research consortia in the European Union
 (EU). We are currently in a test phase of implementing this open science way of
 working in our research group. This may potentially spread through different
 institutes in the region and improve reproducibility rates for the whole
-research community. For example,in the EU-funded project RESPOND, we have
+research community. For example, in the EU-funded project RESPOND, we have
 already published open-access manuscripts to inform mental and occupational
 health policies for vulnerable populations during the COVID-19 pandemic,
 especially HCWs. Soon, we will report the RCT results and make the code
@@ -92,21 +120,17 @@ the Obiba Software. We currently use this open-source software on the RESPOND
 project to conduct federated analyses of different epidemiological cohort
 studies (software DataShield and R) while data is securely stored in local
 servers (software Opal). In this project, we also anonymised our datasets to
-comply with the General Data Protection Regulation of the European Union.
-Because a common anonymisation process across datasets was not possible (due to
-the sensitive nature of the data), we used scripts in R, Stata, and SPSS, based
-on each partners' preference, to keep the anonymisation as reproducible as
-possible at all study sites. One of the main benefits of developing this
+comply with the General Data Protection Regulation of the EU.
+Because a common anonymisation process across datasets was not possible due to
+the sensitive nature of the data, we used scripts in R, Stata, and SPSS, to keep
+the anonymisation as reproducible as
+possible at all sites. One of the main benefits of developing this
 practice is having a complete history accessible to all. This increases the
 transparency of a study and facilitates communication. Moreover, it is an
-interesting tool for the researcher himself. Indeed, having this history allowed
-us to keep in writing what was done, what worked but also what led to errors.
-This written trace allowed us to save time and avoid reproducing the same
-mistake while understanding why. Also, when we want to remember the previous
-steps and what has already been done by our peers, it is easy to navigate within
-it once familiar with the platform and find this information.
-
-<!--# 327 words -->
+interesting tool for researchers themselves. Indeed, having this history allowed
+us to keep in writing what was done, what worked but also what led to mistakes.
+This written trace allowed us both to save time and avoid reproducing the same
+mistake.
 
 # Reusability: What steps have been taken for others to reuse this initiative?
 
@@ -115,18 +139,9 @@ it once familiar with the platform and find this information.
 -   *What are the steps you have taken/are taking to make the initiative
     available to others?*
 
-    Learnings from SYNCHROS and RESPOND. We have been developing SOPs (e.g., for
-    anonymization), we are doing minutes in our meetings, we share our
-    manuscripts in OneDrive so that we can keep track of versions, comments,
-    etc.). We will share our server at the CCC with other research groups if
-    they need it.
-
 -   *Is the practice, its structure and output, easily findable online? If yes,
     where?*
-
-    This I don't understand very good. Include links to policy briefs, SOPs,
-    SYNCHROS paper, Lea's paper on Git, etc.
-
+    
 -   *Can the practice be reused in other departments or institutions?*
 
 We will record all the steps taken so that anyone can use and/or adapt them,
@@ -156,14 +171,12 @@ to be as compliant as possible with the Open Science framework (see here:
 https://github.com/CCOMS-UAM/yos-award).
 
 Our knowledge and expertise may already help other research groups. We will
-provie support by sharing the server, training other departments, or taking the
+provide support by sharing the server, training other departments, or taking the
 lead on initiatives to develop an enhanced open science framework for
 collaborative work. There are already materials that can be provided for this
 purpose (e.g., DataShield monthly drop-in sessions:
 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/overview and
 https://www.youtube.com/@datashield5702/videos).
-
-<!--# 280 words -->
 
 # Follow-up: How do you intend to use the award?
 
@@ -190,12 +203,10 @@ then be translated into formative actions that can be exported to the rest of
 lab members and research communities. Thus, we believe the prize may be a great
 opportunity to invest in this first stage of specific, mid- to high-level
 training. Courses related to using git / Github
-(<https://swcarpentry.github.io/git-novice/>),
-DataShield(<https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub>),
-Opal administration (<https://opaldoc.obiba.org/en/latest/cookbook/index.html>)
+(https://swcarpentry.github.io/git-novice/),
+DataShield(https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub),
+Opal administration (https://opaldoc.obiba.org/en/latest/cookbook/index.html)
 and Linux server administration
-(<https://www.cbtnuggets.com/it-training/linux/server-administration>). This
+(https://www.cbtnuggets.com/it-training/linux/server-administration). This
 would be the first step towards taking a broader action that can be spread
 throughout the scientific community.
-
-<!--# 260 words -->
