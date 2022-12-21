@@ -103,10 +103,31 @@ title: Yerun Open Science Award form
     initiative, or would you like to initiate a new project with the financial
     resources from the award?*
 
-    We will use the money for training. We will develop an SOP for the lab. We
-    will embed new projects in this OS framework. We will try to migrate
-    previous projects when possible. We will also try to anonymize datasets to
-    avoid GDPR and make them publicly accessible -if not possible, we will use
-    OPAL and DataShield.
+Our aim is to embed all our scientific production within this workflow,
+leveraging as much as possible on open science practices from beginning to end.
+In order to this, we want to dig further into our understanding and know-how of
+data access management with Opal (and the Obiba suite in general), literate
+computing, and version control with git/GitHub. All these technologies enable
+creating reliable reproducible workflows, but learning to navigate them is time-
+and effort-consuming; we need to draw our knowledge from the field of software
+engineering and computer science, and then adapt it and translate it to the
+needs and particularities of scientific production.
 
-<!--# blank field, max 400 words -->
+We are currently in what we could call a "maturing" phase of our
+skill-development process with these technologies. Before we are able to expand
+our best practices outside our own group, we need to consolidate our knowledge,
+for which we require further training. We would allocate the prize for training
+in the use of these technologies. We would like to develop an expertise that can
+then be translated into formative actions that can be exported to the rest of
+lab members and research communities. Thus, we believe the prize may be a great
+opportunity to invest in this first stage of specific, mid- to high-level
+training. Courses related to using git / Github
+(<https://swcarpentry.github.io/git-novice/>),
+DataShield(<https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub>),
+Opal administration (<https://opaldoc.obiba.org/en/latest/cookbook/index.html>)
+and Linux server administration
+(<https://www.cbtnuggets.com/it-training/linux/server-administration>). This
+would be the first step towards taking a broader action that can be spread
+throughout the scientific community.
+
+<!--# 260 words -->
