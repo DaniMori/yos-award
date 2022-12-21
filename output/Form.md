@@ -158,16 +158,13 @@ in the use of these technologies. We would like to develop an expertise that can
 then be translated into formative actions that can be exported to the rest of
 lab members and research communities. Thus, we believe the prize may be a great
 opportunity to invest in this first stage of specific, mid- to high-level
-training. Courses related to using [git /
-Github](https://swcarpentry.github.io/git-novice/),
-[DataShield](https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub),
-[Opal administration](https://opaldoc.obiba.org/en/latest/cookbook/index.html),
-[Linux server
-administration](https://www.cbtnuggets.com/it-training/linux/server-administration)
-and a subscription to IT consulting to solve specific problems such as [Git
-Protect](https://gitprotect.com/it-consulting-and-development) and [Red
-Hat](https://www.redhat.com/es/services/consulting). This would be the first
-step towards taking a broader action that can be spread throughout the
-scientific community.
+training. Courses related to using git / Github
+(<https://swcarpentry.github.io/git-novice/>),
+DataShield(<https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943395/Beginners+Hub>),
+Opal administration (<https://opaldoc.obiba.org/en/latest/cookbook/index.html>)
+and Linux server administration
+(<https://www.cbtnuggets.com/it-training/linux/server-administration>). This
+would be the first step towards taking a broader action that can be spread
+throughout the scientific community.
 
 <!--# 260 words -->
