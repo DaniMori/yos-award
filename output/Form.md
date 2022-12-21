@@ -9,7 +9,7 @@ editor_options:
 
 *Please provide information as to the following aspects (as applicable):*
 
--   [*Introduction*]{.underline}*: short overview of the initiative. What are
+-   [*Introduction*]{.underline}\*: short overview of the initiative. What are
     its key Open Science objectives (and others, if applicable)? Who are the
     target groups? What are the main activities organised?*
 
@@ -64,22 +64,49 @@ while putting formative actions in place to help bridge that resistance gap.
 
 -   [*Benefits*]{.underline}*: What benefits were realised (to date) through
     this initiative, and for whom?*
-
-    SYNCRHOS insert. In RESPOND, we have already published open access
-    manuscripts aimed at informing mental and occupational health policies for
-    vulnerable popularions during the COVID-19 pandemic, especially HCWs. Soon,
-    we will report the results of our RCT, and make the code available.
-
 -   [*Lessons learnt*]{.underline}*: What knowledge have you gained (so far)
     through your work?*
 
-    In the context of the COVID-19 pandemics, preprints increased, journals had
-    open access policies, etc. In a rapidly changing world, with climate crisis,
-    wars, etc., research should (and will) move rapidly and collaboratively.
-    This requires training and collaboration, and it is the reason why we apply
-    for this grant.
+As a research group and a World Health Organization's collaborating centre, we
+work daily with researchers and professionals living abroad. This requires tools
+that help tracking exchanges between labs in a comprehensive way, such as
+statistical code, manuscript drafts, or meeting minutes. By taking this
+approach, we aims not only to develop a stronger open science practice within
+our lab, but also across different research consortia in the European Union
+(EU). We are currently in a test phase of implementing this open science way of
+working in our research group. This may potentially spread through different
+institutes in the region and improve reproducibility rates for the whole
+research community. For example,in the EU-funded project RESPOND, we have
+already published open-access manuscripts to inform mental and occupational
+health policies for vulnerable populations during the COVID-19 pandemic,
+especially HCWs. Soon, we will report the RCT results and make the code
+available. This will allow researchers to have full access not only to the
+results of the study but also to how the study developed.
 
-<!--# blank field, max 400 words -->
+In the context of the COVID-19 pandemic, preprints increased, journals had
+open-access policies, etc. In a rapidly changing world, with the climate crisis,
+wars, etc., research should (and will) move rapidly and collaboratively. This
+requires training and collaboration, which is why we apply for this grant. One
+powerful tool that makes national and international collaboration possible is
+the Obiba Software. We currently use this open-source software on the RESPOND
+project to conduct federated analyses of different epidemiological cohort
+studies (software DataShield and R) while data is securely stored in local
+servers (software Opal). In this project, we also anonymised our datasets to
+comply with the General Data Protection Regulation of the European Union.
+Because a common anonymisation process across datasets was not possible (due to
+the sensitive nature of the data), we used scripts in R, Stata, and SPSS, based
+on each partners' preference, to keep the anonymisation as reproducible as
+possible at all study sites. One of the main benefits of developing this
+practice is having a complete history accessible to all. This increases the
+transparency of a study and facilitates communication. Moreover, it is an
+interesting tool for the researcher himself. Indeed, having this history allowed
+us to keep in writing what was done, what worked but also what led to errors.
+This written trace allowed us to save time and avoid reproducing the same
+mistake while understanding why. Also, when we want to remember the previous
+steps and what has already been done by our peers, it is easy to navigate within
+it once familiar with the platform and find this information.
+
+<!--# 327 words -->
 
 # Reusability: What steps have been taken for others to reuse this initiative?
 
