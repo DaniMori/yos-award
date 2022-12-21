@@ -23,24 +23,24 @@ title: Yerun Open Science Award form
 
 -   [*Benefits*]{.underline}*: What benefits were realised (to date) through
     this initiative, and for whom?*
-
-As a leading international research group and a World Health Organization's
-collaborating centre, we work daily with researchers and professionals living
-abroad. This requires tools that help tracking exchanges between labs in a
-comprehensive way, such as statistical code, manuscript drafts, or meeting
-minutes. By taking this approach, we have not only foster a stronger open
-science practice within our lab, but also across different research consortia in
-the European Union (EU). This may potentially spread through different
-institutes in the region and improve reproducibility rates for the whole
-research community.For example,in the EU-funded project RESPOND, we have already
-published open-access manuscripts to inform mental and occupational health
-policies for vulnerable populations during the COVID-19 pandemic, especially
-HCWs. Soon, we will report the RCT results and make the code available. This
-will allow researchers to have full access not only to the results of the study
-but also to how the study developed.
-
 -   [*Lessons learnt*]{.underline}*: What knowledge have you gained (so far)
     through your work?*
+
+As a research group and a World Health Organization's collaborating centre, we
+work daily with researchers and professionals living abroad. This requires tools
+that help tracking exchanges between labs in a comprehensive way, such as
+statistical code, manuscript drafts, or meeting minutes. By taking this
+approach, we aims not only to develop a stronger open science practice within
+our lab, but also across different research consortia in the European Union
+(EU). We are currently in a test phase of implementing this open science way of
+working in our research group. This may potentially spread through different
+institutes in the region and improve reproducibility rates for the whole
+research community. For example,in the EU-funded project RESPOND, we have
+already published open-access manuscripts to inform mental and occupational
+health policies for vulnerable populations during the COVID-19 pandemic,
+especially HCWs. Soon, we will report the RCT results and make the code
+available. This will allow researchers to have full access not only to the
+results of the study but also to how the study developed.
 
 In the context of the COVID-19 pandemic, preprints increased, journals had
 open-access policies, etc. In a rapidly changing world, with the climate crisis,
@@ -59,13 +59,13 @@ possible at all study sites. One of the main benefits of developing this
 practice is having a complete history accessible to all. This increases the
 transparency of a study and facilitates communication. Moreover, it is an
 interesting tool for the researcher himself. Indeed, having this history allowed
-us to keep in writing what was done, what worked but also what led to an error.
+us to keep in writing what was done, what worked but also what led to errors.
 This written trace allowed us to save time and avoid reproducing the same
 mistake while understanding why. Also, when we want to remember the previous
 steps and what has already been done by our peers, it is easy to navigate within
 it once familiar with the platform and find this information.
 
-<!--# blank field, 321 words -->
+<!--# 327 words -->
 
 # Reusability: What steps have been taken for others to reuse this initiative?
 
